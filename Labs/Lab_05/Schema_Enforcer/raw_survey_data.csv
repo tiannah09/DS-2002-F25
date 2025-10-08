@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+101,CS,3,Yes,15.0
+102,Econ,3.5,No,12.5
+103,WGS,2,No,9.0
+104,PLAP,3.2,Yes,10.5
+105,DS,4,Yes,18.0
